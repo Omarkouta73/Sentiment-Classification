@@ -1,1 +1,1 @@
-drive link:
+model link: https://www.kaggle.com/models/omarkouta/arabicsentimentclf
