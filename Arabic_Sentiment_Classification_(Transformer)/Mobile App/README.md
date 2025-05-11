@@ -4,16 +4,16 @@ The original model was overfitting, as shown below:
 ![alt text](Images/image.png)
 
 This resulted in the following performance:
-* Training set accuracy: 95%
-* Test set accuracy: 74%
+* Training set accuracy ~ 95%
+* Test set accuracy ~ 74%
 
 ## How did we solve the problem?
 We addressed the overfitting problem by applying active learning techniques. The improved model's performance is shown below:
 ![alt text](Images/image-1.png)
 
 The model's performance after applying active learning:
-* Training set accuracy: 83%
-* Test set accuracy: 80%
+* Training set accuracy ~ 83%
+* Test set accuracy ~ 80%
 
 ## To run the Mobile App
 To run the mobile app:
