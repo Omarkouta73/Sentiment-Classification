@@ -18,23 +18,19 @@ The model's performance after applying active learning:
 ## To run the Mobile App
 To run the mobile app:
 1. Create a virtual environment and activate it.
-
-```
-python -m venv venv
-source venv/bin/activate  # On Linux/macOS
-venv\Scripts\activate.bat # On Windows
-```
+  ```
+  python -m venv venv
+  source venv/bin/activate  # On Linux/macOS
+  venv\Scripts\activate.bat # On Windows
+  ```
 
 2. Install the required dependencies.
-
-`pip install -r requirements.txt`
+  `pip install -r requirements.txt`
 
 3. Install the model `https://www.kaggle.com/models/omarkouta/arabicsentimentclf` to `backend/venv/models/checkpoint-90`
 
 4. Run the backend server.
-
-`python app.py`
+  `python app.py`
 
 5. Run the Flutter app on a device or emulator.
-
-`flutter run`
+  `flutter run`
