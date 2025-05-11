@@ -17,7 +17,7 @@ The model's performance after applying active learning:
 To run the mobile app:
 1. Create a virtual environment and activate it.
 
-``python -m venv venv
+```python -m venv venv
   source venv/bin/activate  # On Linux/macOS
   venv\Scripts\activate.bat # On Windows```
 
