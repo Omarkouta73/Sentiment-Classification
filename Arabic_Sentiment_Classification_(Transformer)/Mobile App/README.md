@@ -34,3 +34,5 @@ To run the mobile app:
 
 5. Run the Flutter app on a device or emulator.
   `flutter run`
+
+![alt text](Images/image-2.png)
